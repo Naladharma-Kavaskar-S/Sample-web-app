@@ -15,12 +15,12 @@ if __name__ == "__main__":
 # To run this Flask app, you can use the command:
 # python sample.py
 # To run this Flask app in a Docker container, you can create a Dockerfile
-# and build the image using: 
+# and build the image using:
 # docker build -t my-flask-app .
 # Then run the container with:
 # docker run -p 5000:5000 my-flask-app
 # You can access the app at http://localhost:5000
 # Note: Make sure you have Flask installed in your Python environment.
-# You can install Flask using pip: 
+# You can install Flask using pip:
 # pip install Flask
-# Ensure you have Docker installed to build and run the container.
+# Ensure you have Docker installed to build and run the container
